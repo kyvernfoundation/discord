@@ -8,5 +8,5 @@
 - Undiscord [GitHub](https://github.com/victornpb/undiscord)
 > Quickly delete all your messages.
 ### Protect your Discord account
-- Have [strong authentication]()
+- Have [strong authentication](https://github.com/kyvernfoundation/kyvern/blob/main/courses/strongauthentication.md)
 ### Protect your Discord server
