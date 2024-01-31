@@ -12,3 +12,4 @@
 ### Protect your Discord server
 - Don't download a file without knowing exactly what it contains.
 - You can create a Discord account that will only be used for major changes to your server. It's advisable to block private messages on this account. Then use an account with restricted rights on a daily basis. This is a good practice.
+- Have at least two trusted moderators to check that everything is running smoothly.
