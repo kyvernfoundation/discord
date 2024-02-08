@@ -1,3 +1,4 @@
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 # Discord
 - Aliucord [GitHub](https://github.com/Aliucord/Aliucord)
 > Modification of the Discord android application to add features and customization.
