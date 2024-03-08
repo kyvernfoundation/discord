@@ -1,8 +1,9 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 # Discord
+Discord is excellent and getting better every day. Here are the best projects to improve your Discord today:
 - Aliucord [GitHub](https://github.com/Aliucord/Aliucord)
 > Modification of the Discord android application to add features and customization.
-- BetterDiscord [GitHub](https://github.com/BetterDiscord/BetterDiscord)
+- BetterDiscord [GitHub](https://github.com/BetterDiscord/BetterDiscord) [website](https://betterdiscord.app/)
 > Modification of the Discord windows application to add features and customization.
 ## Security
 ### Data security
