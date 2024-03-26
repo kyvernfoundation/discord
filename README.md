@@ -1,4 +1,3 @@
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 # Discord
 Discord is excellent and getting better every day. Here are the best projects to improve your Discord today:
 - Aliucord [GitHub](https://github.com/Aliucord/Aliucord)
